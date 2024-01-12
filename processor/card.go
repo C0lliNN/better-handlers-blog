@@ -1,4 +1,4 @@
-package repository
+package processor
 
 type Card struct {
 	Number string
